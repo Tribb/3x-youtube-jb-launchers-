@@ -10,7 +10,7 @@ Plug the usb in and install the PPSA01650_00-YOUTUBExxxA00000-01.03.pkg, don't r
 Transfer the download0.dat to the folder you just made
 Run the app you should see it installing the update at the end of the jb sequence
 
-Wnen its finished you can exit and reboot, Re-jailbreak and go to ***
+When its finished you can exit and reboot, Re-jailbreak and go to ***
 when all done you can delete the ps5_autoloader on /data
 
 Files are from /data https://github.com/itsPLK/ps5_y2jb_autoloader/releases/tag/v0.4
