@@ -27,7 +27,11 @@ itsPLK for the Autoloader
 
 ABC for Lapse kernel exploit
 
-if I missed anyone please raise an issue
+if I missed anyone please raise an issue 
+
 NOTE Cheats are only supported up to 7.61 because as of today no ps5debug for higher firmwares
+
+**Large files cant be uploaded to git but are included in the release
+
 ![ps4-screen](https://github.com/user-attachments/assets/0dfbd0e7-c4c4-4950-a22e-d89a4c071e8f)
 
