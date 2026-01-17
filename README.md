@@ -27,4 +27,4 @@ itsPLK for the Autoloader
 
 ABC for Lapse kernel exploit
 
-if I missed anyone please raise n issue 
+if I missed anyone please raise an issue 
