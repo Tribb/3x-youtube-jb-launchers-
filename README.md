@@ -25,6 +25,6 @@ Gezine Y2JB Fantastic userland Jailbreak for the ps5
 
 itsPLK for the Autoloader
 
-ABC for Lapse kernek exploit
+ABC for Lapse kernel exploit
 
 if I missed anyone please raise n issue 
