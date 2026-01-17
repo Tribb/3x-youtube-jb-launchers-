@@ -21,7 +21,10 @@ you can find the folders with the launch apps on /data/ps5_autoloader_PPSA0165x,
 Enjoy 
 
 Credits
-Gezine Y2JB Fantastic userland Jailbreak for the ps5 
+Gezine Y2JB Fantastic userland Jailbreak for the ps5
+
 itsPLK for the Autoloader
+
 ABC for Lapse kernek exploit
+
 if I missed anyone please raise n issue 
