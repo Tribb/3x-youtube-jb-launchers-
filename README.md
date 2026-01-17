@@ -19,3 +19,9 @@ Don't use any other updates or you will wipe the new icons
 If you want to use your own icons its easy to do just replace icon in the zip with yours and edit update-info.txt look at properties of your new icon      size     22.5 KB (23,137 bytes)and update the size in the file with the bytes in this case 23137
 you can find the folders with the launch apps on /data/ps5_autoloader_PPSA0165x, if you feel the need to finetune with  !1000 pauses 
 Enjoy 
+
+Credits
+Gezine Y2JB Fantastic userland Jailbreak for the ps5 
+itsPLK for the Autoloader
+ABC for Lapse kernek exploit
+if I missed anyone please raise n issue 
