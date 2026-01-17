@@ -2,6 +2,8 @@
 uses 3 different youtube apps to launch different payloads
 Download latest Y2JB_download0_1.3.zip here https://github.com/Gezine/Y2JB/releases/tag/1.3 extract for latest 
 download0.dat then follow instuctions below, Do 1 at a time then you wont get them mixed up
+
+
 move the ps5_autoloader to /data
 ***for each version do this Copy PPSA01650_00-YOUTUBExxxA00000-01.03.pkg and y2jb_update.zip to root of a usb 
 Plug the usb in and install the PPSA01650_00-YOUTUBExxxA00000-01.03.pkg, don't remove the usb then with ftp go to /user/download and make folder PPSA0165x, x been the version you installed
